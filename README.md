@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Baral</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [https://bootwal.comp/](Bootwal R & D)
+- 🔭 I’m currently working on [https://bootwal.com/] (Bootwal R & D)
 - 💬 Ask me about **JAVA, PHP, Wordpress, MySQL, Angular**
 
 <h3 align="left">Connect with me:</h3>
