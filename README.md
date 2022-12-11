@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Baral</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 Ask me about **JAVA, PHP, Wordpress, MySQL, Angular, Blockchain, Solidity, Smart Contracts**
+- 💬 Ask me about **JAVA, PHP, JavaScript, Angular, NodeJS, React, MySQL, Blockchain**
 
 - 📫 How to reach me **anilcodes60@gmail.com**
 
